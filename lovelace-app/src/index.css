@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #F4ECE6;
+  --color-lovelace: #2E2A6D;
+  --color-gold: #D4AF37;
+}

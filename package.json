@@ -1,0 +1,15 @@
+{
+  "name": "lovelace",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "dotenv": "^16.5.0",
+    "hono": "^4.7.5",
+    "openai": "^4.94.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
